@@ -1,1 +1,1 @@
-# Landing-Rostov-on-don-Slider
+# Практика Slider на JS в составе проекта и отдельно
